@@ -12,7 +12,7 @@ The project was developed using the tools:
 - **Mosquitto broker** - facilitates the exchange of messages between devices and applications in an IoT architecture
 
 Based URL used in this project - (Port modified in visual studio)
-- \http://localhost:50202/api/somiod
+- http://localhost:50202/api/somiod
 
 Inside the root of this project there is a file with the URLs to test with postman called **endpoints.txt**.
 
